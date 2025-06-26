@@ -1,0 +1,27 @@
+Tilt Stack: Tower Builder 
+>
+> **Tilt Stack** is a 2D OpenGL-based stacking game built using **Python and PyOpenGL**, where the goal is to build the tallest tower possible by dropping moving blocks on top of each other — all while managing **wind forces** and **tilt imbalances**!
+>
+> ### 🎮 Gameplay Features:
+>
+> * **Physics-Based Stacking**: Blocks must align to stack. Misalignment causes the tower to tilt left or right.
+> * **Wind Mechanics**: Wind randomly influences the falling direction of blocks on each level.
+> * **Level Progression**:
+>
+>   * Level 1: Basic stacking.
+>   * Level 2 & 3: Narrower blocks and building visualization based on tilt.
+>   * Level 4: Game ends with a thank-you screen.
+> * **Custom Line & Circle Drawing**: Built from scratch using Midpoint Line and Midpoint Circle algorithms (no built-in graphics).
+> * **UI Controls**: Pause/Play button, Restart, Exit, and Live Score/Level tracking.
+>
+> ### 🛠️ Tech Stack: 
+>
+> * **Language**: Python 3
+> * **Graphics**: PyOpenGL (OpenGL, GLUT)
+> * **Algorithms**: Midpoint Line & Circle Drawing (Implemented from scratch)
+>
+>Authors: Built as part of an academic graphics project by a team passionate about combining math, physics, and game design in Python.
+>
+>
+>
+> **🎯 Stack wisely. Balance the tilt. Battle the wind. Become the ultimate tower builder!**
